@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794982450228",
+    "project_id": "socialfinder-1e2b9",
+    "storage_bucket": "socialfinder-1e2b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794982450228:android:291e6687d183fe3e863661",
+        "android_client_info": {
+          "package_name": "com.example.socialfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794982450228-mj54nbskv1vualtp1dtasa63ca0eod61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qM3-21Df0VfOFHh5PyQpZpsV7mUxLXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794982450228-mj54nbskv1vualtp1dtasa63ca0eod61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
